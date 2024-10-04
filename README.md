@@ -105,9 +105,6 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 This project uses the following license: [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
-
-If you want to contact me, you can reach me at <your-email@example.com>.
 
 ## Acknowledgements
 
